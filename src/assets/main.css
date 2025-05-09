@@ -1,0 +1,8 @@
+/* @import './base.css'; */
+@import "tailwindcss";
+@import './regular.css';
+@import './medium.css';
+
+* {
+  font-family: 'HarmonyOS_Regular';
+}
