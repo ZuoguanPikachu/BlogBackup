@@ -1,6 +1,6 @@
 @import "tailwindcss";
 @import './regular.css';
 
-* {
+*:not(code):not(code *) {
   font-family: 'HarmonyOS_Regular';
 }
